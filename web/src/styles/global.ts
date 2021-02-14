@@ -13,6 +13,10 @@ export default createGlobalStyle`
     -webkit-font-smoothing: antialiased;
   }
 
+  button {
+    cursor: pointer;
+  }
+
   body, input, button, textarea {
     font-family: 'Nunito', sans-serif;
     font-weight: 600;

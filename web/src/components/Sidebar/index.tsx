@@ -11,7 +11,7 @@ const Sidebar: React.FC = () => {
       <img src={markerImg} alt="Happy" />
 
       <div>
-        <Link to="/orphanages">
+        <Link to="/app">
           <FiArrowLeft size={32} color="#fff" />
         </Link>
       </div>

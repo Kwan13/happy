@@ -1,10 +1,9 @@
 import React from 'react';
-import { MapContainer, TileLayer } from 'react-leaflet';
-import { MapOptions } from 'leaflet';
+import { MapContainer, MapContainerProps, TileLayer } from 'react-leaflet';
 
 import 'leaflet/dist/leaflet.css';
 
-interface MapProps extends MapOptions {
+interface MapProps extends MapContainerProps {
   interactive?: boolean;
 }
 

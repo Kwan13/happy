@@ -24,7 +24,7 @@ const Landing: React.FC = () => {
             <p>Visite orfanatos e mude o dia de muitas crianças.</p>
           </main>
 
-          <Link to="/orphanages">
+          <Link to="/app">
             <FiArrowRight size={32} color="#8D734B" />
           </Link>
         </div>
