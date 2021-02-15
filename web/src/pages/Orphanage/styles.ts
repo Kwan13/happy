@@ -165,6 +165,7 @@ export const Header = styled.header`
 export const MapContainer = styled.div`
   background: #e6f7fb;
   border-radius: 20px;
+  border: 1px solid #dde3f0;
   margin-top: 64px;
 
   span {
