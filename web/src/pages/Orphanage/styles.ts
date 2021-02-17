@@ -104,7 +104,7 @@ export const Content = styled.div`
         }
       }
 
-      button {
+      > a {
         width: 100%;
         height: 64px;
         border: 0;
@@ -115,6 +115,7 @@ export const Content = styled.div`
         font-size: 18px;
         line-height: 26px;
         margin-top: 64px;
+        text-decoration: none;
 
         display: flex;
         align-items: center;
