@@ -3,7 +3,9 @@
 ![Happy](https://github.com/Kwan13/happy/blob/master/web/src/assets/capa.gif)
 
 ### Sobre
-Happy é uma aplicação que permite que administradores de orfanatos cadastrarem sua unidade informando localização, instruções de visitação, contato e horário de funcionamento, assim todos podem encontrar com mais facilidade e agendar uma visita. O design do projeto foi originalmente desenvolvido pela Rocketseat em um evento e disponibilizado para o público.
+Happy é uma aplicação que permite que administradores de orfanatos cadastrarem sua unidade informando localização, instruções de visitação, contato e horário de funcionamento, assim todos podem encontrar com mais facilidade e agendar uma visita.
+
+O figma do projeto foi disponibilizado pela Rocketseat, porem tomei minhas proprias decisões no desenvolvimento adicionando por exemplo: Docker, postgres e Styled-components.
 
 ### Tecnologias:
 
